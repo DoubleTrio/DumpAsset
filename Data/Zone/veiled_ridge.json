@@ -1,10 +1,11 @@
 ﻿{
-"Version": "0.7.18.0",
+"Version": "0.7.19.0",
 "Object": {
 "$type": "RogueEssence.Data.ZoneData, RogueEssence",
 "Name": {
 "DefaultText": "Veiled Ridge",
 "LocalTexts": {
+"de": "Verdeckter Grat",
 "es": "Ladera Velada",
 "it": "Crinale Velato",
 "zh-hans": "朦胧山脊"
@@ -13475,6 +13476,7 @@
 "Name": {
 "DefaultText": "Veiled Ridge\\n{0}F",
 "LocalTexts": {
+"de": "Verdeckter Grat\\nE{0}",
 "es": "Ladera Velada\\nP{0}",
 "it": "Crinale Velato\\nP{0}",
 "zh-hans": "朦胧山脊\\n{0}F"
@@ -13503,7 +13505,7 @@
 },
 "ModStates": [
 {
-"assembly": "PMDC, Version=0.7.18.0, Culture=neutral, PublicKeyToken=null",
+"assembly": "PMDC, Version=0.7.19.0, Culture=neutral, PublicKeyToken=null",
 "type": "PMDC.Dungeon.CoinModGenState"
 }
 ]
@@ -17053,7 +17055,7 @@
 "Spawn": {
 "$type": "PMDC.LevelGen.ItemStateType, PMDC",
 "UseType": {
-"assembly": "PMDC, Version=0.7.18.0, Culture=neutral, PublicKeyToken=null",
+"assembly": "PMDC, Version=0.7.19.0, Culture=neutral, PublicKeyToken=null",
 "type": "PMDC.Dungeon.GummiState"
 },
 "UseMapItems": true,
@@ -17073,7 +17075,7 @@
 "Spawn": {
 "$type": "PMDC.LevelGen.ItemStateType, PMDC",
 "UseType": {
-"assembly": "PMDC, Version=0.7.18.0, Culture=neutral, PublicKeyToken=null",
+"assembly": "PMDC, Version=0.7.19.0, Culture=neutral, PublicKeyToken=null",
 "type": "PMDC.Dungeon.RecruitState"
 },
 "UseMapItems": true,
@@ -18033,7 +18035,7 @@
 },
 "ModStates": [
 {
-"assembly": "PMDC, Version=0.7.18.0, Culture=neutral, PublicKeyToken=null",
+"assembly": "PMDC, Version=0.7.19.0, Culture=neutral, PublicKeyToken=null",
 "type": "PMDC.Dungeon.ChestModGenState"
 }
 ]
@@ -18103,7 +18105,7 @@
 },
 "ModStates": [
 {
-"assembly": "PMDC, Version=0.7.18.0, Culture=neutral, PublicKeyToken=null",
+"assembly": "PMDC, Version=0.7.19.0, Culture=neutral, PublicKeyToken=null",
 "type": "PMDC.Dungeon.StairsModGenState"
 }
 ]
@@ -22009,6 +22011,7 @@
 "Name": {
 "DefaultText": "Illusion Ridge\\nB{0}F",
 "LocalTexts": {
+"de": "Illusionsgrat\\nU{0}",
 "es": "Ladera Ilusoria\\nP-{0}",
 "it": "Cresta Illusione\\nP-{0}",
 "zh-hans": "幻想山脊\\nB{0}F"
@@ -22037,7 +22040,7 @@
 },
 "ModStates": [
 {
-"assembly": "PMDC, Version=0.7.18.0, Culture=neutral, PublicKeyToken=null",
+"assembly": "PMDC, Version=0.7.19.0, Culture=neutral, PublicKeyToken=null",
 "type": "PMDC.Dungeon.CoinModGenState"
 }
 ]
@@ -24413,6 +24416,7 @@
 "Name": {
 "DefaultText": "Secret Room",
 "LocalTexts": {
+"de": "Geheimer Raum",
 "es": "Piso Secreto",
 "pt": "Sala Secreta",
 "it": "Stanza Segreta",
@@ -24970,6 +24974,7 @@
 "Name": {
 "DefaultText": "Mysterious Passage",
 "LocalTexts": {
+"de": "Mysteriöse Passage",
 "es": "Pasaje Misterioso",
 "pt": "Passagem Misteriosa",
 "it": "Passaggio Misterioso",
@@ -27295,6 +27300,7 @@
 "Name": {
 "DefaultText": "Mysterious Passage",
 "LocalTexts": {
+"de": "Mysteriöse Passage",
 "es": "Pasaje Misterioso",
 "pt": "Passagem Misteriosa",
 "it": "Passaggio Misterioso",
@@ -29636,6 +29642,7 @@
 "Name": {
 "DefaultText": "Mysterious Passage",
 "LocalTexts": {
+"de": "Mysteriöse Passage",
 "es": "Pasaje Misterioso",
 "pt": "Passagem Misteriosa",
 "it": "Passaggio Misterioso",
@@ -31988,6 +31995,7 @@
 "Name": {
 "DefaultText": "Mysterious Passage",
 "LocalTexts": {
+"de": "Mysteriöse Passage",
 "es": "Pasaje Misterioso",
 "pt": "Passagem Misteriosa",
 "it": "Passaggio Misterioso",
@@ -34313,6 +34321,7 @@
 "Name": {
 "DefaultText": "Mysterious Passage",
 "LocalTexts": {
+"de": "Mysteriöse Passage",
 "es": "Pasaje Misterioso",
 "pt": "Passagem Misteriosa",
 "it": "Passaggio Misterioso",
@@ -36654,6 +36663,7 @@
 "Name": {
 "DefaultText": "Mysterious Passage",
 "LocalTexts": {
+"de": "Mysteriöse Passage",
 "es": "Pasaje Misterioso",
 "pt": "Passagem Misteriosa",
 "it": "Passaggio Misterioso",

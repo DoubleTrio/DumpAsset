@@ -1,10 +1,11 @@
 ﻿{
-"Version": "0.7.18.0",
+"Version": "0.7.19.0",
 "Object": {
 "$type": "RogueEssence.Data.ZoneData, RogueEssence",
 "Name": {
 "DefaultText": "Sleeping Caldera",
 "LocalTexts": {
+"de": "Schlafende Caldera",
 "es": "Caldera Durmiente",
 "it": "Caldera Dormiente",
 "zh-hans": "沉睡火山口"
@@ -10460,6 +10461,7 @@
 "Name": {
 "DefaultText": "Sleeping Caldera\\nB{0}F",
 "LocalTexts": {
+"de": "Schlafende Caldera\\nU{0}",
 "es": "Caldera Durmiente\\nP-{0}",
 "it": "Caldera Dormiente\\nP-{0}",
 "zh-hans": "沉睡火山口\\nB{0}F"
@@ -10488,7 +10490,7 @@
 },
 "ModStates": [
 {
-"assembly": "PMDC, Version=0.7.18.0, Culture=neutral, PublicKeyToken=null",
+"assembly": "PMDC, Version=0.7.19.0, Culture=neutral, PublicKeyToken=null",
 "type": "PMDC.Dungeon.CoinModGenState"
 }
 ]

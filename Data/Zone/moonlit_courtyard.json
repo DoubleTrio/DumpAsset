@@ -1,10 +1,11 @@
 ﻿{
-"Version": "0.7.18.0",
+"Version": "0.7.19.0",
 "Object": {
 "$type": "RogueEssence.Data.ZoneData, RogueEssence",
 "Name": {
 "DefaultText": "Moonlit Courtyard",
 "LocalTexts": {
+"de": "Mondheller Innenhof",
 "es": "Patio Luz de Luna",
 "it": "Prato Brillaluna",
 "zh-hans": "月光庭院"
@@ -4751,10 +4752,7 @@ false
 "$type": "PMDC.LevelGen.DefaultMapStatusStep`1[[RogueEssence.LevelGen.MapGenContext, RogueEssence]], PMDC",
 "SetterID": "default_weather",
 "DefaultMapStatus": [
-"misty_terrain",
-"clear",
-"clear",
-"clear"
+"misty_terrain"
 ]
 }
 },
@@ -5550,10 +5548,7 @@ false
 "$type": "PMDC.LevelGen.DefaultMapStatusStep`1[[RogueEssence.LevelGen.MapGenContext, RogueEssence]], PMDC",
 "SetterID": "default_weather",
 "DefaultMapStatus": [
-"misty_terrain",
-"clear",
-"clear",
-"clear"
+"misty_terrain"
 ]
 }
 },
@@ -6297,10 +6292,7 @@ false
 "$type": "PMDC.LevelGen.DefaultMapStatusStep`1[[RogueEssence.LevelGen.MapGenContext, RogueEssence]], PMDC",
 "SetterID": "default_weather",
 "DefaultMapStatus": [
-"misty_terrain",
-"clear",
-"clear",
-"clear"
+"misty_terrain"
 ]
 }
 },
@@ -7044,10 +7036,7 @@ false
 "$type": "PMDC.LevelGen.DefaultMapStatusStep`1[[RogueEssence.LevelGen.MapGenContext, RogueEssence]], PMDC",
 "SetterID": "default_weather",
 "DefaultMapStatus": [
-"misty_terrain",
-"clear",
-"clear",
-"clear"
+"misty_terrain"
 ]
 }
 },
@@ -7634,10 +7623,7 @@ false
 "$type": "PMDC.LevelGen.DefaultMapStatusStep`1[[RogueEssence.LevelGen.MapGenContext, RogueEssence]], PMDC",
 "SetterID": "default_weather",
 "DefaultMapStatus": [
-"misty_terrain",
-"clear",
-"clear",
-"clear"
+"misty_terrain"
 ]
 }
 },
@@ -8224,10 +8210,7 @@ false
 "$type": "PMDC.LevelGen.DefaultMapStatusStep`1[[RogueEssence.LevelGen.MapGenContext, RogueEssence]], PMDC",
 "SetterID": "default_weather",
 "DefaultMapStatus": [
-"misty_terrain",
-"clear",
-"clear",
-"clear"
+"misty_terrain"
 ]
 }
 },
@@ -8814,10 +8797,7 @@ false
 "$type": "PMDC.LevelGen.DefaultMapStatusStep`1[[RogueEssence.LevelGen.MapGenContext, RogueEssence]], PMDC",
 "SetterID": "default_weather",
 "DefaultMapStatus": [
-"misty_terrain",
-"clear",
-"clear",
-"clear"
+"misty_terrain"
 ]
 }
 },
@@ -9570,6 +9550,7 @@ false
 "Name": {
 "DefaultText": "Moonlit Courtyard\\n{0}F",
 "LocalTexts": {
+"de": "Mondheller Innenhof\\nE{0}",
 "es": "Patio Luz de Luna\\nP{0}",
 "it": "Prato Brillaluna\\nP{0}",
 "zh-hans": "月光庭院\\n{0}F"
@@ -9598,7 +9579,7 @@ false
 },
 "ModStates": [
 {
-"assembly": "PMDC, Version=0.7.18.0, Culture=neutral, PublicKeyToken=null",
+"assembly": "PMDC, Version=0.7.19.0, Culture=neutral, PublicKeyToken=null",
 "type": "PMDC.Dungeon.CoinModGenState"
 }
 ]
@@ -13830,7 +13811,7 @@ false
 },
 "ModStates": [
 {
-"assembly": "PMDC, Version=0.7.18.0, Culture=neutral, PublicKeyToken=null",
+"assembly": "PMDC, Version=0.7.19.0, Culture=neutral, PublicKeyToken=null",
 "type": "PMDC.Dungeon.ShopModGenState"
 }
 ]
@@ -19284,6 +19265,7 @@ false
 "Name": {
 "DefaultText": "Moonlit Temple\\n{0}F",
 "LocalTexts": {
+"de": "Mondheller Tempel\\nE{0}",
 "es": "Templo Luz de Luna\\nP{0}",
 "it": "Tempio Brillaluna\\nP{0}",
 "zh-hans": "月光神庙\\n{0}F"
@@ -19312,7 +19294,7 @@ false
 },
 "ModStates": [
 {
-"assembly": "PMDC, Version=0.7.18.0, Culture=neutral, PublicKeyToken=null",
+"assembly": "PMDC, Version=0.7.19.0, Culture=neutral, PublicKeyToken=null",
 "type": "PMDC.Dungeon.CoinModGenState"
 }
 ]
@@ -21513,6 +21495,7 @@ false
 "Name": {
 "DefaultText": "Secret Room",
 "LocalTexts": {
+"de": "Geheimer Raum",
 "es": "Piso Secreto",
 "pt": "Sala Secreta",
 "it": "Stanza Segreta",
@@ -22070,6 +22053,7 @@ false
 "Name": {
 "DefaultText": "Mysterious Passage",
 "LocalTexts": {
+"de": "Mysteriöse Passage",
 "es": "Pasaje Misterioso",
 "pt": "Passagem Misteriosa",
 "it": "Passaggio Misterioso",
@@ -24395,6 +24379,7 @@ false
 "Name": {
 "DefaultText": "Mysterious Passage",
 "LocalTexts": {
+"de": "Mysteriöse Passage",
 "es": "Pasaje Misterioso",
 "pt": "Passagem Misteriosa",
 "it": "Passaggio Misterioso",
@@ -26736,6 +26721,7 @@ false
 "Name": {
 "DefaultText": "Mysterious Passage",
 "LocalTexts": {
+"de": "Mysteriöse Passage",
 "es": "Pasaje Misterioso",
 "pt": "Passagem Misteriosa",
 "it": "Passaggio Misterioso",
@@ -29088,6 +29074,7 @@ false
 "Name": {
 "DefaultText": "Mysterious Passage",
 "LocalTexts": {
+"de": "Mysteriöse Passage",
 "es": "Pasaje Misterioso",
 "pt": "Passagem Misteriosa",
 "it": "Passaggio Misterioso",
@@ -31413,6 +31400,7 @@ false
 "Name": {
 "DefaultText": "Mysterious Passage",
 "LocalTexts": {
+"de": "Mysteriöse Passage",
 "es": "Pasaje Misterioso",
 "pt": "Passagem Misteriosa",
 "it": "Passaggio Misterioso",
@@ -33754,6 +33742,7 @@ false
 "Name": {
 "DefaultText": "Mysterious Passage",
 "LocalTexts": {
+"de": "Mysteriöse Passage",
 "es": "Pasaje Misterioso",
 "pt": "Passagem Misteriosa",
 "it": "Passaggio Misterioso",

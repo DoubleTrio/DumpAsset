@@ -1,5 +1,5 @@
 ﻿{
-"Version": "0.7.18.0",
+"Version": "0.7.19.0",
 "Object": {
 "$type": "RogueEssence.Data.ZoneData, RogueEssence",
 "Name": {
@@ -8541,7 +8541,7 @@
 "Name": {
 "DefaultText": "Relic Tower\\n{0}F",
 "LocalTexts": {
-"de": "Reliktenturm\\n{0}.OG",
+"de": "Reliktenturm\\nE{0}",
 "es": "Torre Reliquia\\nP{0}",
 "it": "Torre Reliquia\\nP{0}",
 "zh-hans": "遗迹之塔\\n{0}F"
@@ -8570,7 +8570,7 @@
 },
 "ModStates": [
 {
-"assembly": "PMDC, Version=0.7.18.0, Culture=neutral, PublicKeyToken=null",
+"assembly": "PMDC, Version=0.7.19.0, Culture=neutral, PublicKeyToken=null",
 "type": "PMDC.Dungeon.CoinModGenState"
 }
 ]
@@ -10207,6 +10207,46 @@
 "Min": 4,
 "Max": 13
 }
+},
+{
+"Spawn": {
+"Spawn": {
+"BaseForm": {
+"Species": "larvesta",
+"Form": 0,
+"Skin": "",
+"Gender": -1
+},
+"Level": {
+"Min": 31,
+"Max": 31
+},
+"SpecifiedSkills": [
+"ember",
+"string_shot",
+"leech_life"
+],
+"Intrinsic": "",
+"Tactic": "wander_dumb",
+"SpawnConditions": [],
+"SpawnFeatures": [
+{
+"$type": "PMDC.LevelGen.MobSpawnWeak, PMDC"
+},
+{
+"$type": "PMDC.LevelGen.MobSpawnMovesOff, PMDC",
+"StartAt": 3,
+"Remove": false
+}
+]
+},
+"Role": 0
+},
+"Rate": 10,
+"Range": {
+"Min": 4,
+"Max": 13
+}
 }
 ],
 "TeamSizes": [
@@ -11473,7 +11513,7 @@
 "Spawn": {
 "$type": "PMDC.LevelGen.ItemStateType, PMDC",
 "UseType": {
-"assembly": "PMDC, Version=0.7.18.0, Culture=neutral, PublicKeyToken=null",
+"assembly": "PMDC, Version=0.7.19.0, Culture=neutral, PublicKeyToken=null",
 "type": "PMDC.Dungeon.GummiState"
 },
 "UseMapItems": true,
@@ -11493,7 +11533,7 @@
 "Spawn": {
 "$type": "PMDC.LevelGen.ItemStateType, PMDC",
 "UseType": {
-"assembly": "PMDC, Version=0.7.18.0, Culture=neutral, PublicKeyToken=null",
+"assembly": "PMDC, Version=0.7.19.0, Culture=neutral, PublicKeyToken=null",
 "type": "PMDC.Dungeon.RecruitState"
 },
 "UseMapItems": true,
@@ -12453,7 +12493,7 @@
 },
 "ModStates": [
 {
-"assembly": "PMDC, Version=0.7.18.0, Culture=neutral, PublicKeyToken=null",
+"assembly": "PMDC, Version=0.7.19.0, Culture=neutral, PublicKeyToken=null",
 "type": "PMDC.Dungeon.ChestModGenState"
 }
 ]
@@ -14007,7 +14047,7 @@
 },
 "ModStates": [
 {
-"assembly": "PMDC, Version=0.7.18.0, Culture=neutral, PublicKeyToken=null",
+"assembly": "PMDC, Version=0.7.19.0, Culture=neutral, PublicKeyToken=null",
 "type": "PMDC.Dungeon.ShopModGenState"
 }
 ]
@@ -15384,6 +15424,7 @@
 "Name": {
 "DefaultText": "Secret Room",
 "LocalTexts": {
+"de": "Geheimer Raum",
 "es": "Piso Secreto",
 "pt": "Sala Secreta",
 "it": "Stanza Segreta",
@@ -15933,6 +15974,7 @@
 "Name": {
 "DefaultText": "Mysterious Passage",
 "LocalTexts": {
+"de": "Mysteriöse Passage",
 "es": "Pasaje Misterioso",
 "pt": "Passagem Misteriosa",
 "it": "Passaggio Misterioso",
@@ -18258,6 +18300,7 @@
 "Name": {
 "DefaultText": "Mysterious Passage",
 "LocalTexts": {
+"de": "Mysteriöse Passage",
 "es": "Pasaje Misterioso",
 "pt": "Passagem Misteriosa",
 "it": "Passaggio Misterioso",
@@ -20599,6 +20642,7 @@
 "Name": {
 "DefaultText": "Mysterious Passage",
 "LocalTexts": {
+"de": "Mysteriöse Passage",
 "es": "Pasaje Misterioso",
 "pt": "Passagem Misteriosa",
 "it": "Passaggio Misterioso",

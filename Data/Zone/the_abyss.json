@@ -1,5 +1,5 @@
 ﻿{
-"Version": "0.7.18.0",
+"Version": "0.7.19.0",
 "Object": {
 "$type": "RogueEssence.Data.ZoneData, RogueEssence",
 "Name": {
@@ -51080,7 +51080,7 @@
 "Name": {
 "DefaultText": "The Abyss\\nB{0}F",
 "LocalTexts": {
-"de": "Die Kluft\\n{0}.KG",
+"de": "Die Kluft\\nU{0}",
 "es": "El Abismo\\nP-{0}",
 "it": "L'Abisso\\nP-{0}",
 "zh-hans": "深渊\\nB{0}F"
@@ -51109,7 +51109,7 @@
 },
 "ModStates": [
 {
-"assembly": "PMDC, Version=0.7.18.0, Culture=neutral, PublicKeyToken=null",
+"assembly": "PMDC, Version=0.7.19.0, Culture=neutral, PublicKeyToken=null",
 "type": "PMDC.Dungeon.CoinModGenState"
 }
 ]
@@ -51257,7 +51257,7 @@
 },
 "ModStates": [
 {
-"assembly": "PMDC, Version=0.7.18.0, Culture=neutral, PublicKeyToken=null",
+"assembly": "PMDC, Version=0.7.19.0, Culture=neutral, PublicKeyToken=null",
 "type": "PMDC.Dungeon.ChestModGenState"
 }
 ]

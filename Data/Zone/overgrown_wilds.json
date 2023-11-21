@@ -1,5 +1,5 @@
 ﻿{
-"Version": "0.7.18.0",
+"Version": "0.7.19.0",
 "Object": {
 "$type": "RogueEssence.Data.ZoneData, RogueEssence",
 "Name": {
@@ -9472,7 +9472,7 @@
 "Name": {
 "DefaultText": "Overgrown Wilds\\n{0}F",
 "LocalTexts": {
-"de": "Überwachsene Wildnis\\n{0}.OG",
+"de": "Überwachsene Wildnis\\nE{0}",
 "it": "Bosco Selvaggio\\nP{0}",
 "zh-hans": "杂草原野\\n{0}F"
 }
@@ -9500,7 +9500,7 @@
 },
 "ModStates": [
 {
-"assembly": "PMDC, Version=0.7.18.0, Culture=neutral, PublicKeyToken=null",
+"assembly": "PMDC, Version=0.7.19.0, Culture=neutral, PublicKeyToken=null",
 "type": "PMDC.Dungeon.CoinModGenState"
 }
 ]
@@ -12731,7 +12731,7 @@
 },
 "ModStates": [
 {
-"assembly": "PMDC, Version=0.7.18.0, Culture=neutral, PublicKeyToken=null",
+"assembly": "PMDC, Version=0.7.19.0, Culture=neutral, PublicKeyToken=null",
 "type": "PMDC.Dungeon.ShopModGenState"
 }
 ]
@@ -13154,7 +13154,7 @@
 },
 "ModStates": [
 {
-"assembly": "PMDC, Version=0.7.18.0, Culture=neutral, PublicKeyToken=null",
+"assembly": "PMDC, Version=0.7.19.0, Culture=neutral, PublicKeyToken=null",
 "type": "PMDC.Dungeon.StairsModGenState"
 }
 ]
@@ -16004,6 +16004,7 @@
 "Name": {
 "DefaultText": "Exotic Wilds\\nB{0}F",
 "LocalTexts": {
+"de": "Exotische Wildnis\\nU{0}",
 "it": "Boscaglia Esotica\\nP-{0}",
 "zh-hans": "异草原野\\nB{0}F"
 }
@@ -16031,7 +16032,7 @@
 },
 "ModStates": [
 {
-"assembly": "PMDC, Version=0.7.18.0, Culture=neutral, PublicKeyToken=null",
+"assembly": "PMDC, Version=0.7.19.0, Culture=neutral, PublicKeyToken=null",
 "type": "PMDC.Dungeon.CoinModGenState"
 }
 ]
@@ -18254,7 +18255,7 @@
 "Spawn": {
 "$type": "PMDC.LevelGen.ItemStateType, PMDC",
 "UseType": {
-"assembly": "PMDC, Version=0.7.18.0, Culture=neutral, PublicKeyToken=null",
+"assembly": "PMDC, Version=0.7.19.0, Culture=neutral, PublicKeyToken=null",
 "type": "PMDC.Dungeon.GummiState"
 },
 "UseMapItems": true,
@@ -18274,7 +18275,7 @@
 "Spawn": {
 "$type": "PMDC.LevelGen.ItemStateType, PMDC",
 "UseType": {
-"assembly": "PMDC, Version=0.7.18.0, Culture=neutral, PublicKeyToken=null",
+"assembly": "PMDC, Version=0.7.19.0, Culture=neutral, PublicKeyToken=null",
 "type": "PMDC.Dungeon.RecruitState"
 },
 "UseMapItems": true,
@@ -18409,6 +18410,7 @@
 "Name": {
 "DefaultText": "Secret Room",
 "LocalTexts": {
+"de": "Geheimer Raum",
 "es": "Piso Secreto",
 "pt": "Sala Secreta",
 "it": "Stanza Segreta",
@@ -18706,6 +18708,7 @@
 "Name": {
 "DefaultText": "Mysterious Passage",
 "LocalTexts": {
+"de": "Mysteriöse Passage",
 "es": "Pasaje Misterioso",
 "pt": "Passagem Misteriosa",
 "it": "Passaggio Misterioso",
@@ -21031,6 +21034,7 @@
 "Name": {
 "DefaultText": "Mysterious Passage",
 "LocalTexts": {
+"de": "Mysteriöse Passage",
 "es": "Pasaje Misterioso",
 "pt": "Passagem Misteriosa",
 "it": "Passaggio Misterioso",
@@ -23372,6 +23376,7 @@
 "Name": {
 "DefaultText": "Mysterious Passage",
 "LocalTexts": {
+"de": "Mysteriöse Passage",
 "es": "Pasaje Misterioso",
 "pt": "Passagem Misteriosa",
 "it": "Passaggio Misterioso",
@@ -25724,6 +25729,7 @@
 "Name": {
 "DefaultText": "Mysterious Passage",
 "LocalTexts": {
+"de": "Mysteriöse Passage",
 "es": "Pasaje Misterioso",
 "pt": "Passagem Misteriosa",
 "it": "Passaggio Misterioso",
@@ -28049,6 +28055,7 @@
 "Name": {
 "DefaultText": "Mysterious Passage",
 "LocalTexts": {
+"de": "Mysteriöse Passage",
 "es": "Pasaje Misterioso",
 "pt": "Passagem Misteriosa",
 "it": "Passaggio Misterioso",
@@ -30390,6 +30397,7 @@
 "Name": {
 "DefaultText": "Mysterious Passage",
 "LocalTexts": {
+"de": "Mysteriöse Passage",
 "es": "Pasaje Misterioso",
 "pt": "Passagem Misteriosa",
 "it": "Passaggio Misterioso",

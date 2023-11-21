@@ -1,10 +1,11 @@
 ﻿{
-"Version": "0.7.18.0",
+"Version": "0.7.19.0",
 "Object": {
 "$type": "RogueEssence.Data.ZoneData, RogueEssence",
 "Name": {
 "DefaultText": "Geode Underpass",
 "LocalTexts": {
+"de": "Geodenunterführung",
 "es": "Galería Geoda",
 "it": "Galleria Geode",
 "zh-hans": "紫晶地道"
@@ -5933,6 +5934,7 @@
 "Name": {
 "DefaultText": "Geode Underpass\\nB{0}F",
 "LocalTexts": {
+"de": "Geodenunterführung\\nU{0}",
 "es": "Galería Geoda\\nP-{0}",
 "it": "Galleria Geode\\nP-{0}",
 "zh-hans": "紫晶地道\\nB{0}F"
@@ -5961,7 +5963,7 @@
 },
 "ModStates": [
 {
-"assembly": "PMDC, Version=0.7.18.0, Culture=neutral, PublicKeyToken=null",
+"assembly": "PMDC, Version=0.7.19.0, Culture=neutral, PublicKeyToken=null",
 "type": "PMDC.Dungeon.CoinModGenState"
 }
 ]

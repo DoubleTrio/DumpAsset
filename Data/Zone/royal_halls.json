@@ -1,5 +1,5 @@
 ﻿{
-"Version": "0.7.18.0",
+"Version": "0.7.19.0",
 "Object": {
 "$type": "RogueEssence.Data.ZoneData, RogueEssence",
 "Name": {
@@ -14225,7 +14225,7 @@
 "Name": {
 "DefaultText": "Royal Halls\\nB{0}F",
 "LocalTexts": {
-"de": "Königliche Hallen\\n{0}.KG",
+"de": "Königliche Hallen\\nE{0}",
 "es": "Salones Reales\\nP-{0}",
 "it": "Sale Reali\\nP-{0}",
 "zh-hans": "庄严大厅\\nB{0}F"
@@ -14254,7 +14254,7 @@
 },
 "ModStates": [
 {
-"assembly": "PMDC, Version=0.7.18.0, Culture=neutral, PublicKeyToken=null",
+"assembly": "PMDC, Version=0.7.19.0, Culture=neutral, PublicKeyToken=null",
 "type": "PMDC.Dungeon.CoinModGenState"
 }
 ]

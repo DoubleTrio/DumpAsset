@@ -1,10 +1,11 @@
 ﻿{
-"Version": "0.7.18.0",
+"Version": "0.7.19.0",
 "Object": {
 "$type": "RogueEssence.Data.ZoneData, RogueEssence",
 "Name": {
 "DefaultText": "Bramble Woods",
 "LocalTexts": {
+"de": "Brombeerwald",
 "es": "Bosque Zarza",
 "it": "Foresta Rovospino",
 "zh-hans": "荆棘树林"
@@ -4493,6 +4494,7 @@
 "Name": {
 "DefaultText": "Bramble Woods\\nB{0}F",
 "LocalTexts": {
+"de": "Brombeerwald\\nU{0}",
 "es": "Bosque Zarza\\nP-{0}",
 "it": "Foresta Rovospino\\nP-{0}",
 "zh-hans": "荆棘树林\\nB{0}F"
@@ -4521,7 +4523,7 @@
 },
 "ModStates": [
 {
-"assembly": "PMDC, Version=0.7.18.0, Culture=neutral, PublicKeyToken=null",
+"assembly": "PMDC, Version=0.7.19.0, Culture=neutral, PublicKeyToken=null",
 "type": "PMDC.Dungeon.CoinModGenState"
 }
 ]
@@ -7639,6 +7641,7 @@
 "Name": {
 "DefaultText": "Bramble Thicket\\nB{0}F",
 "LocalTexts": {
+"de": "Brombeerdickicht\\nU{0}",
 "es": "Matorral Zarza\\nP-{0}",
 "it": "Boschetto Rovospino\\nP-{0}",
 "zh-hans": "荆棘密林\\nB{0}F"
@@ -7667,7 +7670,7 @@
 },
 "ModStates": [
 {
-"assembly": "PMDC, Version=0.7.18.0, Culture=neutral, PublicKeyToken=null",
+"assembly": "PMDC, Version=0.7.19.0, Culture=neutral, PublicKeyToken=null",
 "type": "PMDC.Dungeon.CoinModGenState"
 }
 ]
@@ -8634,6 +8637,7 @@
 "Name": {
 "DefaultText": "Mysterious Passage",
 "LocalTexts": {
+"de": "Mysteriöse Passage",
 "es": "Pasaje Misterioso",
 "pt": "Passagem Misteriosa",
 "it": "Passaggio Misterioso",
@@ -10959,6 +10963,7 @@
 "Name": {
 "DefaultText": "Mysterious Passage",
 "LocalTexts": {
+"de": "Mysteriöse Passage",
 "es": "Pasaje Misterioso",
 "pt": "Passagem Misteriosa",
 "it": "Passaggio Misterioso",
@@ -13300,6 +13305,7 @@
 "Name": {
 "DefaultText": "Mysterious Passage",
 "LocalTexts": {
+"de": "Mysteriöse Passage",
 "es": "Pasaje Misterioso",
 "pt": "Passagem Misteriosa",
 "it": "Passaggio Misterioso",
@@ -15652,6 +15658,7 @@
 "Name": {
 "DefaultText": "Mysterious Passage",
 "LocalTexts": {
+"de": "Mysteriöse Passage",
 "es": "Pasaje Misterioso",
 "pt": "Passagem Misteriosa",
 "it": "Passaggio Misterioso",
@@ -17977,6 +17984,7 @@
 "Name": {
 "DefaultText": "Mysterious Passage",
 "LocalTexts": {
+"de": "Mysteriöse Passage",
 "es": "Pasaje Misterioso",
 "pt": "Passagem Misteriosa",
 "it": "Passaggio Misterioso",
@@ -20318,6 +20326,7 @@
 "Name": {
 "DefaultText": "Mysterious Passage",
 "LocalTexts": {
+"de": "Mysteriöse Passage",
 "es": "Pasaje Misterioso",
 "pt": "Passagem Misteriosa",
 "it": "Passaggio Misterioso",

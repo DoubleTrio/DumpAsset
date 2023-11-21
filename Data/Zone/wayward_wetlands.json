@@ -1,5 +1,5 @@
 ﻿{
-"Version": "0.7.18.0",
+"Version": "0.7.19.0",
 "Object": {
 "$type": "RogueEssence.Data.ZoneData, RogueEssence",
 "Name": {
@@ -1751,7 +1751,7 @@
 "Name": {
 "DefaultText": "Wayward Wetlands\\n{0}F",
 "LocalTexts": {
-"de": "Launische Auen\\n{0}.OG",
+"de": "Launische Auen\\nE{0}",
 "es": "Humedales Caprichosos\\nP{0}",
 "it": "Acquitrini Capriccio\\nP{0}",
 "zh-hans": "任性湿地\\n{0}F"
@@ -1780,7 +1780,7 @@
 },
 "ModStates": [
 {
-"assembly": "PMDC, Version=0.7.18.0, Culture=neutral, PublicKeyToken=null",
+"assembly": "PMDC, Version=0.7.19.0, Culture=neutral, PublicKeyToken=null",
 "type": "PMDC.Dungeon.CoinModGenState"
 }
 ]

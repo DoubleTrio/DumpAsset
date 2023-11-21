@@ -1,10 +1,11 @@
 ﻿{
-"Version": "0.7.18.0",
+"Version": "0.7.19.0",
 "Object": {
 "$type": "RogueEssence.Data.ZoneData, RogueEssence",
 "Name": {
 "DefaultText": "Starfall Heights",
 "LocalTexts": {
+"de": "Sternenfallhöhen",
 "es": "Alto Lluevestrella",
 "it": "Alture Cometa",
 "zh-hans": "星陨高地"
@@ -1750,6 +1751,7 @@
 "Name": {
 "DefaultText": "Starfall Heights\\n{0}F",
 "LocalTexts": {
+"de": "Sternenfallhöhen\\nE{0}",
 "es": "Alto Lluevestrella\\nP{0}",
 "it": "Alture Cometa\\nP{0}",
 "zh-hans": "星陨高地\\n{0}F"
@@ -1778,7 +1780,7 @@
 },
 "ModStates": [
 {
-"assembly": "PMDC, Version=0.7.18.0, Culture=neutral, PublicKeyToken=null",
+"assembly": "PMDC, Version=0.7.19.0, Culture=neutral, PublicKeyToken=null",
 "type": "PMDC.Dungeon.CoinModGenState"
 }
 ]
